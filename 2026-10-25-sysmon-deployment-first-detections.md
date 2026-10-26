@@ -1,7 +1,9 @@
 # Sysmon Deployment and First Detections in a Wazuh SIEM Home Lab
 
 **Date:** 25-26 October 2026
+
 **Author:** Atogbo O. Anthony
+
 **Lab:** Wazuh 4.9 all-in-one on VirtualBox, NAT network `labnet` (10.0.2.0/24)
 
 ## Summary
